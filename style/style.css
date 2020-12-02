@@ -352,7 +352,7 @@ header>.container{
     font-size: 14px;
     line-height: 23px;
     letter-spacing: 0.01em;
-    color: rgba(34, 53, 111, 0.5);
+    color: rgba(34, 53, 111, 0.6);
 }
 
 footer{
@@ -437,6 +437,7 @@ footer{
         text-align: center;
     }
 }
+
 @media(max-width:480px){
     .grid-container{
             grid-template-areas: 
